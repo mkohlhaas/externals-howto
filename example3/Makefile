@@ -6,7 +6,7 @@
 lib.name = examples
 
 # input source file (class name == source file basename)
-class.sources = counter.c
+class.sources = counter1.c
 
 # all extra files to be included in binary distribution of the library
 datafiles =
